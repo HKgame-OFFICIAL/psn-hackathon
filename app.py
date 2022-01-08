@@ -89,7 +89,7 @@ def timer():
 
 @app.route('/courses')
 def course():
-    return render_template('prices.html')
+    return render_template('courses.html')
 
 @app.route('/yt-tutorial')
 def youtube():
