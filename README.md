@@ -1,4 +1,4 @@
-# psn-hackathon
+# psn2.0-hackathon
 ## I used HTML, CSS, JS and Python(Flask Framework)
 ## Learnt Flask for it
 
